@@ -1,3 +1,37 @@
+### EcoSweep is an eco-focused application designed to incentivize waste management and reporting through a reward system.
+Check out - https://eco-sweep-4qvk.vercel.app/
+
+## Key Features:
+### Navigation: The app includes key sections like Home, Report Waste, Collect Waste, Rewards, and a Leaderboard.
+### Search Functionality: A search bar allows users to quickly find relevant content, such as rewards.
+### Reward Balance: Users can see their current reward points prominently, encouraging continued engagement with eco-friendly tasks.
+### Recent Transactions: Displays the points earned from activities like collecting or reporting waste, helping users track their contributions.
+### Available Rewards: Users can redeem their earned points for rewards, with clear categories showing available options based on the points balance.
+### Notification System: A dropdown shows recent reward notifications, keeping users informed about their activities.
+### Leaderboard: Encourages competition and motivation through community engagement.
+### The clean, modern UI, enhanced with Tailwind CSS, promotes user interaction while maintaining clarity and ease of use.
+
+
+#### Web3Auth is an authentication solution designed for web3 applications, simplifying the user onboarding process by integrating decentralized identity methods with familiar login options such as Google, Twitter, and Discord. It eliminates the need for users to manage private keys directly, making blockchain-based apps more accessible. Web3Auth supports multi-factor authentication, social logins, and passwordless login experiences, catering to both crypto-savvy and non-crypto users. This provides enhanced security and ease of use, promoting wider adoption of decentralized applications.
+
+
+![image](https://github.com/user-attachments/assets/b3b03164-34f2-45b5-9381-8f480fd16281)
+![Screenshot 2024-09-29 080640](https://github.com/user-attachments/assets/7806051a-acdf-4623-b1d1-7977458a3997)
+![Screenshot 2024-09-29 080220](https://github.com/user-attachments/assets/a68d3eab-160f-4498-9841-253d1d2b590d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
